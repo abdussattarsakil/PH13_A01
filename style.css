@@ -14,7 +14,6 @@ body {
 /* navbar design start */
 .navbar {
     margin: 16px 120px;
-
 }
 
 .navbar .nav-container {
@@ -29,6 +28,7 @@ body {
     justify-items: center;
     gap: 32px;
     color: rgba(0, 0, 0, 1);
+    opacity: 90%;
     font-weight: 500;
 }
 
@@ -70,11 +70,11 @@ body {
     font-weight: 700;
     line-height: 84px;
     color: #FFFFFF;
+    opacity: 90%;
 }
 
 .banner-content h1 span {
     color: #30B868;
-
 }
 
 .banner-content p {
