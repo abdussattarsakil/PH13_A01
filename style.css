@@ -11,6 +11,11 @@ body {
     max-width: 1600px;
 }
 
+body button:hover{
+    cursor: pointer;
+    box-shadow:5px 10px 25px 5px #db740d;
+}
+
 /* navbar design start */
 .navbar {
     margin: 16px 120px;
@@ -42,7 +47,6 @@ body {
     font-size: 16px;
     font-weight: 600px;
 }
-
 /* navbar design end */
 
 
@@ -358,3 +362,5 @@ footer #copy-right {
     color: rgba(250, 250, 250, 1);
     text-align: center;
 }
+
+/* footer design end */
