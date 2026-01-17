@@ -61,7 +61,7 @@ body {
     flex-direction: column;
     align-items: center;
     max-width: 1360px;
-    padding: 116px 120px 180px 120px;
+    padding: 120px 0px 120px 230px;
 }
 
 .banner-content h1 {
